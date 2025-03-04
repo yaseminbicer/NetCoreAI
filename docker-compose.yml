@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  netcoreai.project01_apidemo:
+    image: ${DOCKER_REGISTRY-}netcoreai
+    build:
+      context: .
+      dockerfile: NetCoreAI.Project01_ApiDemo/Dockerfile
