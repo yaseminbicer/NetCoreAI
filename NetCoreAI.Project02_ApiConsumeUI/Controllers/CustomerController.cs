@@ -29,6 +29,8 @@ namespace NetCoreAI.Project02_ApiConsumeUI.Controllers
             }
             return View();
         }
+        
+       
     }   
 }
 
