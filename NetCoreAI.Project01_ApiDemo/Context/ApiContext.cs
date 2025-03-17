@@ -10,7 +10,7 @@ namespace NetCoreAI.Project01_ApiDemo.Context
         
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=localhost,1440;initial Catalog=ApiDb;User=sa;Password=Yaso1203@");
+            optionsBuilder.UseSqlServer("Server=TR-N-PF2H3Q1S\\SQLEXPRESS;initial Catalog=ApiDb;Trusted_Connection=True;");
         }
 
         public DbSet<Customer> Customer { get; set; }
