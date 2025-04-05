@@ -2,6 +2,8 @@
 using Newtonsoft.Json;
 using System.Net.Http.Headers;
 using System.Text.Json.Serialization;
+
+
 var client = new HttpClient();
 
 List<ApiSeriesViewModel> apiSeriesViewModels = new List<ApiSeriesViewModel>();

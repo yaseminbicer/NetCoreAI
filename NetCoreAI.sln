@@ -37,6 +37,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project16_PdfAnla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project17_GoogleCloudImageDetection", "NetCoreAI.Project17_GoogleCloudImageDetection\NetCoreAI.Project17_GoogleCloudImageDetection.csproj", "{426171D0-2793-4D11-B002-9BE4F946F76F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project18_OpenAINewsSummarizeWithRss", "NetCoreAI.Project18_OpenAINewsSummarizeWithRss\NetCoreAI.Project18_OpenAINewsSummarizeWithRss.csproj", "{B2254A11-9DFB-424A-AD1E-B3505D1D3CCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project19_CreateStoryWithAI", "NetCoreAI.Project19_CreateStoryWithAI\NetCoreAI.Project19_CreateStoryWithAI.csproj", "{8BA0A03B-526E-4220-A7FE-8A151586EF3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project20_RecipeSuggestion", "NetCoreAI.Project20_RecipeSuggestion\NetCoreAI.Project20_RecipeSuggestion.csproj", "{7B784666-1EC6-44A3-AB64-C2CFABEF8A06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +117,18 @@ Global
 		{426171D0-2793-4D11-B002-9BE4F946F76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{426171D0-2793-4D11-B002-9BE4F946F76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{426171D0-2793-4D11-B002-9BE4F946F76F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2254A11-9DFB-424A-AD1E-B3505D1D3CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2254A11-9DFB-424A-AD1E-B3505D1D3CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2254A11-9DFB-424A-AD1E-B3505D1D3CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2254A11-9DFB-424A-AD1E-B3505D1D3CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA0A03B-526E-4220-A7FE-8A151586EF3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA0A03B-526E-4220-A7FE-8A151586EF3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA0A03B-526E-4220-A7FE-8A151586EF3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA0A03B-526E-4220-A7FE-8A151586EF3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B784666-1EC6-44A3-AB64-C2CFABEF8A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B784666-1EC6-44A3-AB64-C2CFABEF8A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B784666-1EC6-44A3-AB64-C2CFABEF8A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B784666-1EC6-44A3-AB64-C2CFABEF8A06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
